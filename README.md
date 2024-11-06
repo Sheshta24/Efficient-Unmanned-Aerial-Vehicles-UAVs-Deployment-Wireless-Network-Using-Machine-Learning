@@ -68,4 +68,3 @@ References
 	•	Vergara, M., Ramos, L., & Rivera-Campoverde, N. D. (2023). EngineFaultDB: A Novel Dataset for Automotive Engine Fault Classification and Baseline Results. IEEE Access, 11, 126155-126171.
 	•	Indu, C., & Vipin, K. (2024). 3D Deployment of Multi-UAV Network in Disaster Zones. IEEE ICC ROBINS 2024.
 
-This README provides a comprehensive overview of the project, methodology, results, and future scope. It’s designed to make the project approachable for new users while providing in-depth details for technical audiences. Let me know if you’d like any adjustments.
